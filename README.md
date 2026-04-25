@@ -1,16 +1,99 @@
-# React + Vite
+# WhatsApp Web UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A WhatsApp Web inspired chat UI built using **React, Vite, and Tailwind CSS**.
+The project focuses on recreating the look, feel, and behavior of WhatsApp Web with smooth interactions and a clean component structure.
 
-Currently, two official plugins are available:
+**Live Demo:**
+https://whatsapp-ui-clone-cyan.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* WhatsApp-like chat interface (left sidebar + right chat window)
+* Send messages with instant UI update
+* Auto-scroll to latest message
+* Typing indicator
+* Seen / delivered double ticks
+* Inline timestamps (like real WhatsApp)
+* Search users in sidebar
+* Last message preview in chat list
+* Active chat highlighting
+* Responsive design (works on mobile & desktop)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Approach
+
+This project was built with a focus on **UI accuracy and real chat behavior**, not just static design.
+
+* Used a **component-based structure**:
+
+  * `Sidebar` → chat list & search
+  * `ChatWindow` → messages UI
+  * `ChatInput` → message input bar
+
+* Managed state using **React useState**:
+
+  * selected chat
+  * messages
+  * typing state
+  * search filtering
+
+* Messages are stored in a **local JSON file** and rendered dynamically.
+
+* Special attention was given to:
+
+  * message alignment (left/right)
+  * compact bubble spacing
+  * inline time + ticks positioning
+  * scroll behavior without layout breaking
+
+---
+
+## Tech Stack
+
+* React (Vite)
+* Tailwind CSS
+* JavaScript (ES6)
+
+---
+
+## Project Structure
+
+src/
+  components/
+    icons/
+    Sidebar.jsx
+    ChatWindow.jsx
+    ChatInput.jsx
+  data/
+    users.json
+  App.jsx
+
+
+---
+
+## Installation & Setup
+git clone https://github.com/amritansh333/whatsapp-ui-clone.git
+cd whatsapp-ui-clone
+npm install
+npm run dev
+
+---
+
+## Run Locally
+
+npm install
+npm run dev
+
+
+---
+
+## Note
+
+This is a **frontend-only project** made for learning and UI practice.
+There is no backend or real-time messaging.
+
+---
+
