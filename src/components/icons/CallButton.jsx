@@ -1,5 +1,5 @@
 import VideoCallIcon from "./VideoCallIcon";
-import DropdownIcon from "./DropdownIcon";
+import DropDownIcon from "./DropDownIcon";
 
 const CallButton = () => {
   return (
