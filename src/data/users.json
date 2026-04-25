@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "image": "https://i.pravatar.cc/150?img=1",
+    "messages": [
+      { "text": "Bhai kal assignment submit kiya?", "sender": "them", "time": "09:10 AM", "seen": true },
+      { "text": "Nahi bhai abhi kar raha hu", "sender": "me", "time": "09:12 AM", "seen": true },
+      { "text": "Deadline aaj hai ya kal?", "sender": "them", "time": "09:13 AM", "seen": true },
+      { "text": "Aaj hi hai 12 baje tak", "sender": "me", "time": "09:14 AM", "seen": true },
+      { "text": "Ohh shit 😭", "sender": "them", "time": "09:15 AM", "seen": true },
+      { "text": "Template bhej du?", "sender": "me", "time": "09:16 AM", "seen": true },
+      { "text": "Haan jaldi bhej", "sender": "them", "time": "09:16 AM", "seen": true },
+      { "text": "Check mail", "sender": "me", "time": "09:18 AM", "seen": true },
+      { "text": "Mil gaya thanks bhai", "sender": "them", "time": "09:20 AM", "seen": true },
+      { "text": "Karle jaldi warna fail 😂", "sender": "me", "time": "09:21 AM", "seen": false }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "image": "https://i.pravatar.cc/150?img=2",
+    "messages": [
+      { "text": "Are you coming today?", "sender": "them", "time": "10:00 AM", "seen": true },
+      { "text": "Haan bas nikal raha hu", "sender": "me", "time": "10:01 AM", "seen": true },
+      { "text": "Kitna time lagega?", "sender": "them", "time": "10:02 AM", "seen": true },
+      { "text": "20 mins approx", "sender": "me", "time": "10:03 AM", "seen": true },
+      { "text": "Late mat hona pls", "sender": "them", "time": "10:04 AM", "seen": true },
+      { "text": "Nahi hoga 😄", "sender": "me", "time": "10:05 AM", "seen": false }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Amit Singh",
+    "image": "https://i.pravatar.cc/150?img=3",
+    "messages": [
+      { "text": "Kal match dekha?", "sender": "them", "time": "08:00 AM", "seen": true },
+      { "text": "Haan bhai full paisa vasool", "sender": "me", "time": "08:05 AM", "seen": true },
+      { "text": "Last over 🔥🔥", "sender": "them", "time": "08:06 AM", "seen": true },
+      { "text": "Sach me, Dhoni legend hai", "sender": "me", "time": "08:07 AM", "seen": true },
+      { "text": "Always 🐐", "sender": "them", "time": "08:08 AM", "seen": true }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Neha Gupta",
+    "image": "https://i.pravatar.cc/150?img=4",
+    "messages": [
+      { "text": "Notes bhej dena pls", "sender": "them", "time": "07:50 AM", "seen": true },
+      { "text": "Haan bhejta hu", "sender": "me", "time": "07:52 AM", "seen": true },
+      { "text": "PDF me hai kya?", "sender": "them", "time": "07:53 AM", "seen": true },
+      { "text": "Haan PDF me hi hai", "sender": "me", "time": "07:54 AM", "seen": true },
+      { "text": "Send kar do jaldi", "sender": "them", "time": "07:55 AM", "seen": true },
+      { "text": "Abhi bheja", "sender": "me", "time": "07:57 AM", "seen": false }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rohit Yadav",
+    "image": "https://i.pravatar.cc/150?img=5",
+    "messages": [
+      { "text": "Gym aa raha hai?", "sender": "them", "time": "06:30 AM", "seen": true },
+      { "text": "Aaj skip kar raha hu", "sender": "me", "time": "06:35 AM", "seen": true },
+      { "text": "Kyu?", "sender": "them", "time": "06:36 AM", "seen": true },
+      { "text": "Thoda body pain hai", "sender": "me", "time": "06:37 AM", "seen": true },
+      { "text": "Theek hai rest le", "sender": "them", "time": "06:38 AM", "seen": true }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sneha Kapoor",
+    "image": "https://i.pravatar.cc/150?img=6",
+    "messages": [
+      { "text": "Project ka UI ho gaya?", "sender": "them", "time": "11:00 AM", "seen": true },
+      { "text": "Almost done", "sender": "me", "time": "11:02 AM", "seen": true },
+      { "text": "Design dikha", "sender": "them", "time": "11:03 AM", "seen": true },
+      { "text": "Screenshot bheja", "sender": "me", "time": "11:05 AM", "seen": true },
+      { "text": "Nice lag raha hai 🔥", "sender": "them", "time": "11:06 AM", "seen": true },
+      { "text": "Thanks 😄", "sender": "me", "time": "11:07 AM", "seen": false }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Arjun Mehta",
+    "image": "https://i.pravatar.cc/150?img=7",
+    "messages": [
+      { "text": "Movie plan?", "sender": "them", "time": "01:00 PM", "seen": true },
+      { "text": "Kaunsi?", "sender": "me", "time": "01:02 PM", "seen": true },
+      { "text": "Pathaan", "sender": "them", "time": "01:03 PM", "seen": true },
+      { "text": "Chal theek hai", "sender": "me", "time": "01:04 PM", "seen": true },
+      { "text": "Timing dekh le", "sender": "them", "time": "01:05 PM", "seen": true },
+      { "text": "6 PM show hai", "sender": "me", "time": "01:06 PM", "seen": false }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pooja Mishra",
+    "image": "https://i.pravatar.cc/150?img=8",
+    "messages": [
+      { "text": "Call karu?", "sender": "them", "time": "02:10 PM", "seen": true },
+      { "text": "Haan kar lo", "sender": "me", "time": "02:11 PM", "seen": true },
+      { "text": "2 min me karti hu", "sender": "them", "time": "02:12 PM", "seen": true }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Vikas Chauhan",
+    "image": "https://i.pravatar.cc/150?img=9",
+    "messages": [
+      { "text": "Office aa rahe ho?", "sender": "them", "time": "09:00 AM", "seen": true },
+      { "text": "Haan traffic me hu", "sender": "me", "time": "09:05 AM", "seen": true },
+      { "text": "Kitna time?", "sender": "them", "time": "09:06 AM", "seen": true },
+      { "text": "15 min", "sender": "me", "time": "09:07 AM", "seen": false }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Kavya Nair",
+    "image": "https://i.pravatar.cc/150?img=10",
+    "messages": [
+      { "text": "Lunch kiya?", "sender": "them", "time": "01:30 PM", "seen": true },
+      { "text": "Nahi abhi nahi", "sender": "me", "time": "01:32 PM", "seen": true },
+      { "text": "Chalo saath me chalte hain", "sender": "them", "time": "01:33 PM", "seen": true },
+      { "text": "Okay 👍", "sender": "me", "time": "01:34 PM", "seen": false }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Manish Pandey",
+    "image": "https://i.pravatar.cc/150?img=11",
+    "messages": [
+      { "text": "Code push kar diya?", "sender": "them", "time": "02:00 PM", "seen": true },
+      { "text": "Haan GitHub pe hai", "sender": "me", "time": "02:05 PM", "seen": true }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Anjali Joshi",
+    "image": "https://i.pravatar.cc/150?img=12",
+    "messages": [
+      { "text": "Kal milte hain?", "sender": "them", "time": "03:30 PM", "seen": true },
+      { "text": "Sure 👍", "sender": "me", "time": "03:35 PM", "seen": false }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Suresh Kumar",
+    "image": "https://i.pravatar.cc/150?img=13",
+    "messages": [
+      { "text": "Bill payment ho gaya?", "sender": "them", "time": "04:10 PM", "seen": true },
+      { "text": "Haan abhi kar diya", "sender": "me", "time": "04:15 PM", "seen": true }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Meena Iyer",
+    "image": "https://i.pravatar.cc/150?img=14",
+    "messages": [
+      { "text": "Meeting kitne baje hai?", "sender": "them", "time": "05:20 PM", "seen": true },
+      { "text": "6 PM sharp", "sender": "me", "time": "05:22 PM", "seen": true }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Deepak Thakur",
+    "image": "https://i.pravatar.cc/150?img=15",
+    "messages": [
+      { "text": "Bhai recharge kar diya?", "sender": "them", "time": "06:00 PM", "seen": true },
+      { "text": "Haan kar diya 👍", "sender": "me", "time": "06:02 PM", "seen": false }
+    ]
+  }
+]
