@@ -1,4 +1,4 @@
-function SearchIcon({ className = "w-6 h-6 text-black" }) {
+function SearchIcon({ className = "w-6 h-6" }) {
   return (
     <svg
       viewBox="0 0 24 24"

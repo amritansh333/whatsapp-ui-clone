@@ -15,9 +15,9 @@ function ChatInput({ sendMessage, setTyping }) {
   };
 
   return (
-    <div className="p-3 bg-transparent">
+    <div className="p-2 md:p-3 bg-transparent">
 
-      <div className="flex items-center gap-2 px-3 h-12 rounded-full bg-[#ffffff]">
+      <div className="flex items-center gap-2 px-3 h-12 rounded-full bg-white w-full">
 
         <button className="p-2 rounded-full hover:bg-[#F6F5F4]">
           <PlusIcon />
